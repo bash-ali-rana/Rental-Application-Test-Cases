@@ -4,7 +4,7 @@ Assignment work done using Cypress+TypeScript
 
 ## Installation
 
-From the directory `EverReal` run:
+From the directory `Rental-Application-Tests` run:
 
 `npm install`
 
