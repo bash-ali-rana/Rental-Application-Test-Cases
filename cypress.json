@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://acme-qa.everreal.co/app/public/apply/89577a55-6211-4ebb-85ad-dbbb69c59d8e/applications/step2",
+    "env": {
+        "apiUrl": "https://acme-qa.everreal.co"
+    },
+    "supportFile": "cypress/support/index.js"
+}
